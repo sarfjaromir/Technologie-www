@@ -1,0 +1,148 @@
+.admin_data{
+  margin-top: 10px;
+}
+.admin_login{
+  margin: 20px;
+}
+body{
+  background-color: white;
+}
+.datum{
+  float: left;
+}
+h1{
+  color: #2C88BC;
+  -webkit-text-stroke: 1px black;
+  font-style: italic;
+  font-size: 90px;
+}
+h2{
+  text-align: center;
+}
+h3{
+  text-align: center;
+}
+.formular{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: center;
+  width: 100%;
+}
+.jmeno{
+  width: 300px;
+}
+.kurty_box{
+  background-color: #D6D6D6;
+}
+.kurt1{
+  border: 1px solid black;
+}
+.kurt2{
+  border: 1px solid black;
+}
+.kurt3{
+  border: 1px solid black;
+}
+.kurt_cas{
+  text-align: center;
+  padding-left: 5px;
+  border: 1px grey solid;
+  height: 35px;
+  font-weight: 700;
+}
+.kurt_cas:hover{
+  background-color: #2C88BC;
+  color: black;
+}
+.kurt_content{
+  margin-bottom: 5px;
+  background-color: white;
+}
+.kurt_cas_obsazeno{
+  text-align: center;
+  padding-left: 5px;
+  border: 1px grey solid;
+  height: 35px;
+  background-color: #FF406B;
+  font-weight: 700;
+}
+.navbar{
+  text-align: right;
+}
+.nadpis{
+  background-image: url("logo2.jpg");
+  background-repeat: no-repeat;
+  background-size:1200px 300px;
+  text-align: center;
+  padding-top: 100px;
+  height: 300px;
+}
+.nadpis_rezervace{
+  margin-top: 5px;
+}
+.nadpisy h2{
+  margin-top: 25px;
+  margin-bottom: 40px;
+  font-size: 35px;
+  font-style: italic;
+}
+.menu{
+  background-color: #2C88BC;
+  text-align: right;
+  height: 48px;
+}
+.menu_vyber{
+  background-color: #FF406B;
+}
+.odhlasit{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  float: right;
+}
+.paticka{
+  padding: 3px;
+  padding-left: 12px;
+  background-color: grey;
+  font-style: italic;
+}
+.submit{
+  margin-top: 5px;
+}
+ul{
+  height: 100%;
+}
+ul li{
+  padding-top: 12px;
+  display: inline-block;
+  padding-left: 15px;
+  padding-right: 15px;
+  height: 100%;
+  font-weight: bold;
+  color: black;
+}
+ul li a:hover{
+  text-decoration: none;
+}
+ul li:hover{
+  background-color: #99CCFF;
+}
+.upravitInput{
+  width: 100%;
+  text-align: center;
+}
+.uvod h2{
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-size: 50px;
+  font-style: italic;
+}
+table{
+  text-align: center;
+}
+.vlevo{
+  float: left;
+}
+.vpravo{
+  float: right;
+  padding: 5px;
+}
